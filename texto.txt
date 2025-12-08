@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>PDF</title>
+  </head>
+  <body style="display:flex;justify-content:center;align-items:center;height:100vh;">
+    <a href="https://drive.google.com/uc?export=download&id=1V9VxLuT75rYKq8QpCUjkoGsT8pGfh4HT"
+       style="font-size:22px;padding:15px 25px;background:black;color:white;text-decoration:none;border-radius:8px;"
+       target="_blank">
+       ABRIR PDF
+    </a>
+  </body>
+</html>
